@@ -1,0 +1,6 @@
+# Ignore large model file
+bert_model_last/model.safetensors
+
+# Ignore Python cache
+__pycache__/
+*.pyc
